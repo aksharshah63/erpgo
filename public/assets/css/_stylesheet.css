@@ -1,0 +1,35 @@
+.fc td, .fc th {
+    border-width: 5px;
+    border: none !important;
+}
+
+.fc-header-toolbar {
+    display: block;
+}
+
+.fc-toolbar.fc-header-toolbar {
+    margin-bottom: 0;
+    display: none;
+}
+
+.fullcalendar-title {
+    font-size: 14px !important;
+    color: #0f5ef7;
+    padding-top: 9px;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+
+.fullcalendar-btn-prev {
+    background: #0f5ef7;
+    border-radius: 15px 0 0 15px;
+    border: none;
+    margin-right: 2px !important;
+}
+
+.fullcalendar-btn-next {
+    background: #0f5ef7;
+    border-radius: 0 15px 15px 0;
+    border: none;
+}
